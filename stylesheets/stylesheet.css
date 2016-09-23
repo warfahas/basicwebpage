@@ -427,6 +427,7 @@ th {
 }
 
 /* LAYOUT STYLES */
+/*What color is body-bg.jpg in a comment.*/
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
@@ -453,6 +454,8 @@ header {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
+  /*Which font from the font-family is displaying on the website*/
+  /*Add your name to your webpage along with your email address.It cannot be done from CSS.*/
 }
 
 header h1 {
